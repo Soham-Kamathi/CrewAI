@@ -4,7 +4,7 @@ from crewai import Agent, Task, Crew
 import os
 
 # Set API Keys
-os.environ['OPENAI_API_KEY'] = 'MxMn2FtGujb7y2jHGuMqDCokvxQCUb0u'  # Replace with your API key
+os.environ['OPENAI_API_KEY'] = 'xxxxxxxxxxxxxxxxxxxxxxxx'  # Replace with your API key
 os.environ["OPENAI_API_BASE"] = "https://api.mistral.ai/v1"
 os.environ["OPENAI_MODEL_NAME"] = "mistral-small"
 
